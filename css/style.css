@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Arial, Verdana;
     background-color: #000000;
     color: #FFFFFF;
     margin: 20px 20px 0 20px;
@@ -74,6 +74,7 @@ div {
     border-left: 5px solid white;
     border-bottom: 2px solid white;
     border-top: none;
+    border-right: none;
 }
 
 /* Style for the blue div */
@@ -110,7 +111,8 @@ div {
     text-align: left;
     margin-right: 50px;
     border-left: none;
-    border-top: 2 px solid white;
-    border-right: 5 px solid white;
+    border-bottom: none;
+    border-top: 2px solid white;
+    border-right: 5px solid white;
 
 }
